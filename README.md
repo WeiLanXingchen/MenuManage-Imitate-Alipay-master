@@ -3,5 +3,7 @@
 
 效果图
 -----------------------------------
-![image]()
+![image](https://github.com/WeiLanXingchen/MenuManage-Imitate-Alipay-master/blob/master/app/TIM图片20181023160026.png)
+
+![image](https://github.com/WeiLanXingchen/MenuManage-Imitate-Alipay-master/blob/master/app/TIM图片20181023160017.png)
 
